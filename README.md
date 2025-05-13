@@ -24,7 +24,7 @@ This project involves deep-diving into a retail sales dataset to uncover insight
 
 ## 📁 Dataset Info
 
-- 📄 File: `sales_data.csv`
+- 📄 File: `sales_data (1).csv`
 - 🎯 Contains data on:
   - Order Dates
   - Product Names
